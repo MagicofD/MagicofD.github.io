@@ -9,7 +9,7 @@
 title: 234
 description: 个人博客网站
 brief-intro: PHP Development Engineer
-baseurl: / # the subpath of your site, e.g. /blog
+baseurl: /magicofd.github.io # the subpath of your site, e.g. /blog
 url: "https://MagicofD.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
