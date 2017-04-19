@@ -6,22 +6,22 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 234
+title: zeus的博客
 description: 个人博客网站
 brief-intro: PHP Development Engineer
-baseurl: /magicofd.github.io # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://MagicofD.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-#twitter_username: jourdon
-#facebook_username: jourdon
+#twitter_username: 
+#facebook_username: 
 github_username:  duzs
-email: duzs@haplox.com
-#weibo_username: jourdon
-zhihu_username: 
-#linkedIn_username: jourdon
+email: dzs827611757@gmmail.com
+#weibo_username: 
+zhihu_username: 猫脸雷公嘴和尚
+#linkedIn_username: 
 #dribbble_username:
 
 description_footer: 本站记录我的PHP开发之路！
