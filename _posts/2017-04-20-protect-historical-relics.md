@@ -9,27 +9,7 @@ author: windleavez，电子游戏 / 影碟爱好者
 * content
 {:toc}
 
-<div class="global-header">
-
-<div class="main-wrap">
-
-<div class="download">[<span>iPhone</span>](https://itunes.apple.com/cn/app/id639087967?mt=8) [<span>Android</span>](/download/android)</div>
-
-[](/ "知乎日报")</div>
-
-</div>
-
-<div class="header-for-mobile">[<span class="header-for-mobile-btn">立即下载</span> 
-
 ![](http://static.daily.zhihu.com/img/app-logo.png) 
-
-</div>
-
-<div class="main-wrap content-wrap">
-
-<div class="headline">
-
-<div class="img-wrap">
 
 # 大误 · 保护文物，从我做起！
 
@@ -37,21 +17,9 @@ author: windleavez，电子游戏 / 影碟爱好者
 
 ![](https://pic3.zhimg.com/v2-0a3c35d32aafcfedfd6a6d278b171a8a.jpg)</div>
 
-</div>
-
-<div class="content-inner">
-
-<div class="question">
-
 ## 射雕英雄传里，黄蓉和郭靖密室疗伤的时候吃了那么多西瓜如何解决内急问题？
 
-<div class="answer">
-
-<div class="meta">
-
 ![](http://pic2.zhimg.com/787819c89_is.jpg) <span class="author">windleavez，</span><span class="bio">电子游戏 / 影碟爱好者</span></div>
-
-<div class="content">
 
 我们先来回顾下历年影视剧中对密室疗伤一节的视觉化处理：
 
@@ -99,19 +67,7 @@ author: windleavez，电子游戏 / 影碟爱好者
 
 最后是普法时间：“故意损毁国家保护的珍贵文物或者被确定为全国重点文物保护单位、省级文物保护单位的文物的，处三年以下有期徒刑或者拘役，并处或者单处罚金；情节严重的，处三年以上十年以下有期徒刑，并处罚金。”请大家不要学习郭黄二人的违法行径，保护文物，从我做起！
 
-</div>
-
-</div>
-
-<div class="view-more">[查看知乎原文<span class="js-question-holder" data-aid="108197"></span>](http://www.zhihu.com/question/23248488)</div>
-
-</div>
-
-<div class="question">
-
-<div class="answer">
-
-<div class="content">
+[查看知乎原文<span class="js-question-holder" data-aid="108197"></span>](http://www.zhihu.com/question/23248488)
 
 客官，这篇文章有意思吗？
 
@@ -123,36 +79,15 @@ author: windleavez，电子游戏 / 影碟爱好者
 
 [再逛逛吧](/story/9116372?utm_source=other_article&utm_campaign=tuijian&utm_medium=daily_share)</span>
 
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="qr">
 
 ## 扫描二维码下载知乎日报
 
 <span class="subheading">支持 iOS 和 Android</span>
 
-<div class="qr-wrap">
-
 ![二维码下载知乎日报](http://static.daily.zhihu.com/img/qr1.png)</div>
 
-</div>
+<span class="bottom-recommend-title">阅读更多</span> [<span style="background-image:url(https://pic1.zhimg.com/v2-322397f17c95b8ed7d1bbe7dfb22dbfc.jpg)" class="link-image"></span>让《西游记》成为时代作品，杨洁的伟大并不只是导演而已](http://daily.zhihu.com/story/9364417) 
 
-</div>
+[下载 「知乎日报」 客户端查看更多](/download)
 
-<div class="bottom-wrap">
-
-<div class="bottom-recommend"><span class="bottom-recommend-title">阅读更多</span> [<span style="background-image:url(https://pic1.zhimg.com/v2-322397f17c95b8ed7d1bbe7dfb22dbfc.jpg)" class="link-image"></span>让《西游记》成为时代作品，杨洁的伟大并不只是导演而已](http://daily.zhihu.com/story/9364417) 
-
-[下载 「知乎日报」 客户端查看更多](/download)</div>
-
-</div>
-
-<div class="footer">
-
-[知乎网](http://www.zhihu.com/) · © 2017 知乎</div>
+[知乎网](http://www.zhihu.com/) · © 2017 知乎
