@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "第一篇文章"
+categories: 文章
+tags: 文章
+author: xzs
+---
+
+* content
+{:toc}
+
 <div class="global-header">
 
 <div class="main-wrap">
