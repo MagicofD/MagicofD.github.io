@@ -67,11 +67,8 @@ author: windleavez，电子游戏 / 影碟爱好者
 
 客官，这篇文章有意思吗？
 
-<span class="s1">
-
-[好玩！下载<span class="s2"> App </span>接着看<span class="s2"> </span>(<span class="s3">๑</span><span class="s2">•</span><span class="s4">ㅂ</span><span class="s2">•</span>)<span class="s2"> </span><span class="s5">✧</span>](https://dudu.zhihu.com/download?utm_source=article_suffix&utm_campaign=tuijian&utm_medium=daily_share)</span>
-
-<span class="bottom-recommend-title">阅读更多</span> 
-[<span style="background-image:url(https://pic1.zhimg.com/v2-322397f17c95b8ed7d1bbe7dfb22dbfc.jpg)" class="link-image"></span>让《西游记》成为时代作品，杨洁的伟大并不只是导演而已](http://daily.zhihu.com/story/9364417) 
+[好玩！下载<span class="s2"> App </span>接着看<span class="s2"> </span>(<span class="s3">๑</span><span class="s2">•</span><span class="s4">ㅂ</span><span class="s2">•</span>)<span class="s2"> </span><span class="s5">✧</span>](https://dudu.zhihu.com/download?utm_source=article_suffix&utm_campaign=tuijian&utm_medium=daily_share)
+阅读更多 
+[让《西游记》成为时代作品，杨洁的伟大并不只是导演而已](http://daily.zhihu.com/story/9364417) 
 
 [知乎网](http://www.zhihu.com/) · © 2017 知乎
