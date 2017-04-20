@@ -17,7 +17,7 @@ PHP后端开发工程师。
 
 ## 联系我
 
-* GitHub：[jourdon](https://github.com/jourdon)
+* GitHub：[MagicofD](https://github.com/MagicofD)
 * email：admin@qiehe.net
 
 
