@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "第一篇文章"
+title:  "射雕英雄传里，黄蓉和郭靖密室疗伤的时候吃了那么多西瓜如何解决内急问题？"
 categories: 文章
 tags: 文章
-author: xzs
+author: windleavez，电子游戏 / 影碟爱好者
 ---
 
 * content
@@ -19,7 +19,11 @@ author: xzs
 
 </div>
 
-<div class="header-for-mobile">[<span class="header-for-mobile-btn">立即下载</span> ![](http://static.daily.zhihu.com/img/app-logo.png) <span class="header-for-mobile-title">知乎日报</span> <span class="header-for-mobile-meta">每日提供高质量新闻资讯</span>](/download) </div>
+<div class="header-for-mobile">[<span class="header-for-mobile-btn">立即下载</span> 
+
+![](http://static.daily.zhihu.com/img/app-logo.png) 
+
+</div>
 
 <div class="main-wrap content-wrap">
 
@@ -29,7 +33,9 @@ author: xzs
 
 # 大误 · 保护文物，从我做起！
 
-<span class="img-source">图片：编辑瞎说的</span> ![](https://pic3.zhimg.com/v2-0a3c35d32aafcfedfd6a6d278b171a8a.jpg)</div>
+<span class="img-source">图片：编辑瞎说的</span> 
+
+![](https://pic3.zhimg.com/v2-0a3c35d32aafcfedfd6a6d278b171a8a.jpg)</div>
 
 </div>
 
@@ -41,7 +47,9 @@ author: xzs
 
 <div class="answer">
 
-<div class="meta">![](http://pic2.zhimg.com/787819c89_is.jpg) <span class="author">windleavez，</span><span class="bio">电子游戏 / 影碟爱好者</span></div>
+<div class="meta">
+
+![](http://pic2.zhimg.com/787819c89_is.jpg) <span class="author">windleavez，</span><span class="bio">电子游戏 / 影碟爱好者</span></div>
 
 <div class="content">
 
@@ -107,9 +115,13 @@ author: xzs
 
 客官，这篇文章有意思吗？
 
-<span class="s1">[好玩！下载<span class="s2"> App </span>接着看<span class="s2"> </span>(<span class="s3">๑</span><span class="s2">•</span><span class="s4">ㅂ</span><span class="s2">•</span>)<span class="s2"> </span><span class="s5">✧</span>](https://dudu.zhihu.com/download?utm_source=article_suffix&utm_campaign=tuijian&utm_medium=daily_share)</span>
+<span class="s1">
 
-<span class="s1">[再逛逛吧<span class="s2"> </span><span class="s6">ˊ</span><span class="s2">_></span><span class="s6">ˋ</span>](/story/9116372?utm_source=other_article&utm_campaign=tuijian&utm_medium=daily_share)</span>
+[好玩！下载<span class="s2"> App </span>接着看<span class="s2"> </span>(<span class="s3">๑</span><span class="s2">•</span><span class="s4">ㅂ</span><span class="s2">•</span>)<span class="s2"> </span><span class="s5">✧</span>](https://dudu.zhihu.com/download?utm_source=article_suffix&utm_campaign=tuijian&utm_medium=daily_share)</span>
+
+<span class="s1">
+
+[再逛逛吧](/story/9116372?utm_source=other_article&utm_campaign=tuijian&utm_medium=daily_share)</span>
 
 </div>
 
@@ -125,7 +137,9 @@ author: xzs
 
 <span class="subheading">支持 iOS 和 Android</span>
 
-<div class="qr-wrap">![二维码下载知乎日报](http://static.daily.zhihu.com/img/qr1.png)</div>
+<div class="qr-wrap">
+
+![二维码下载知乎日报](http://static.daily.zhihu.com/img/qr1.png)</div>
 
 </div>
 
@@ -133,8 +147,12 @@ author: xzs
 
 <div class="bottom-wrap">
 
-<div class="bottom-recommend"><span class="bottom-recommend-title">阅读更多</span> [<span style="background-image:url(https://pic1.zhimg.com/v2-322397f17c95b8ed7d1bbe7dfb22dbfc.jpg)" class="link-image"></span>让《西游记》成为时代作品，杨洁的伟大并不只是导演而已](http://daily.zhihu.com/story/9364417) [下载 「知乎日报」 客户端查看更多](/download)</div>
+<div class="bottom-recommend"><span class="bottom-recommend-title">阅读更多</span> [<span style="background-image:url(https://pic1.zhimg.com/v2-322397f17c95b8ed7d1bbe7dfb22dbfc.jpg)" class="link-image"></span>让《西游记》成为时代作品，杨洁的伟大并不只是导演而已](http://daily.zhihu.com/story/9364417) 
+
+[下载 「知乎日报」 客户端查看更多](/download)</div>
 
 </div>
 
-<div class="footer">[知乎网](http://www.zhihu.com/) · © 2017 知乎</div>
+<div class="footer">
+
+[知乎网](http://www.zhihu.com/) · © 2017 知乎</div>
